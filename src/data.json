@@ -1,0 +1,38 @@
+[
+  {
+    "imgUrl": "facebook.png",
+    "title": "Front-end Developer",
+    "text": "We are looking for an experienced front-end developer to join our team.",
+    "tag": "#Rust"
+  },
+  {
+    "imgUrl": "figma.png",
+    "title": "DataScientist",
+    "text": "We are seeking a data scientist to join our team",
+    "tag": "#Python"
+  },
+  {
+    "imgUrl": "vercel.png",
+    "title": "Technical Writer",
+    "text": "We are seeking a technical writer to join our team.",
+    "tag": "#Documentation"
+  },
+  {
+    "imgUrl": "facebook.png",
+    "title": "Front-end Developer",
+    "text": "We are looking for an experienced front-end developer to join our team.",
+    "tag": "#Rust"
+  },
+  {
+    "imgUrl": "figma.png",
+    "title": "DataScientist",
+    "text": "We are seeking a data scientist to join our team",
+    "tag": "#Python"
+  },
+  {
+    "imgUrl": "vercel.png",
+    "title": "Technical Writer",
+    "text": "We are seeking a technical writer to join our team.",
+    "tag": "#Documentation"
+  }
+]
